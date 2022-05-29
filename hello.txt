@@ -1,4 +1,4 @@
-hello world
+
 git!
 gdddf
-rr
+другая строка		
